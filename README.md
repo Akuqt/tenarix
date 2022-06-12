@@ -1,6 +1,8 @@
 [![Test][test ci logo]][test ci workflow] [![Build][build ci logo]][build ci workflow] [![PR Welcome][prs logo]][new pr] [![Version][version logo]][version]
 
-# Tenarix (Currently Paused)
+# Tenarix
+
+Moved to [Tenarix][tenarix]
 
 Tenarix is an open source multiplatform desktop manga reader alternative.
 
@@ -72,3 +74,4 @@ Personal project inspired by [Tachiyomi][tachiyomi].
 [version logo]: https://img.shields.io/github/v/tag/akuqt/tenarix?color=success&include_prereleases&label=Version
 [version]: https://github.com/Akuqt/tenarix/releases/latest
 [images]: https://github.com/Akuqt/tenarix/tree/main/docs/images
+[tenarix]: https://github.com/tenarixorg/tenarix
